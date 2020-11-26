@@ -58,7 +58,7 @@
           </div>
           
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
-            <h3>American Star Pharmacy - Accredited American Star Pharmacy Pharmacy for Prescription Drugs</h3>
+            <h3>American Star Pharmacy - Accredited American Star Pharmacy for Prescription Drugs</h3>
             <p>
               As a licensed international Online Pharmacy, we at American Star Pharmacy believe in offering high-quality medication at a reasonable price and are trusted the most for the same. In addition to that, we not only provide prescription drugs online at a reasonable price, but our accredited pharmacy partners in American Star Pharmacy and around the world offer a variety of reasonable over-the-counter medications, including pet care.
             </p>
