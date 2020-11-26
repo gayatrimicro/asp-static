@@ -53,7 +53,7 @@
 
         <div class="row content">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="" alt="">
+            <img src="https://dummyimage.com/600x600/ddd/000" width="100%" alt="asp">
             
           </div>
           
@@ -129,7 +129,7 @@
           </div>
           <div class="col-lg-4">
             <div class="section-title" data-aos="fade-right">
-              <img src="" alt="">
+              <img src="https://dummyimage.com/400x450/ddd/000" width="100%" alt="asp">
             </div>
           </div>
         </div>

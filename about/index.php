@@ -52,7 +52,7 @@
 
         <div class="row content">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="" alt="">
+            <img src="https://dummyimage.com/500x400/ddd/000" width="100%" alt="asp">
             
           </div>
           
